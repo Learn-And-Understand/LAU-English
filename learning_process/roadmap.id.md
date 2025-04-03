@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # English Learning Roadmap
 
 Berikut adalah roadmap yang bisa kamu ikuti untuk belajar bahasa Inggris dari level pemula hingga mahir:
@@ -164,4 +163,3 @@ Dengan mengikuti roadmap ini, kamu bisa secara bertahap meningkatkan kemampuan b
 * Jangan takut membuat kesalahan. Setiap kesalahan adalah kesempatan untuk belajar.
 * Cari topik yang kamu minati. Ini akan membuat proses belajar lebih menyenangkan.
 * Program Jalur Bahasa Inggris & Akademik (EAPP) adalah program bahasa Inggris intensif dan mendalam bagi siswa yang ingin meningkatkan kemampuan bahasa Inggris mereka dan persiapan akademis untuk studi di universitas.
->>>>>>> b5c34749175264525ead14e90c02b4ef76db22c0
